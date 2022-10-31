@@ -1,0 +1,15 @@
+/* Estilos apenas para professores */
+
+.content-container{
+    padding: 20px;
+}
+
+.content-container > div img {
+    width: 98%;
+    border-radius: 20px;
+    border: 5px double;
+}
+
+section, main {
+    text-align: center; 
+ }
