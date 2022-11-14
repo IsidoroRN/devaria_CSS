@@ -1,0 +1,26 @@
+/* Estilos relacionados a página Fale Conosco */
+
+.sub-title {
+    margin: 20px;
+}
+
+main .contact-form >div{
+    margin: 15px 0px;
+}
+
+main .contact-form > div label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+main .contact-form input,
+main .contact-form select,
+main .contact-form textarea {
+    width: 90%;
+    padding: 5px 15px;
+    outline-color: #3bd42d;
+}
+
+main .contact-form select {
+    width: 100%;
+}

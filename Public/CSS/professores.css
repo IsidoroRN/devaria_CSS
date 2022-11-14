@@ -21,3 +21,10 @@ section, main {
  .text-justify {
     text-align: justify;
 }
+
+@media screen and (min-widt:992px) {
+    .content-container > div img {
+        width: 30%;
+    }
+}
+

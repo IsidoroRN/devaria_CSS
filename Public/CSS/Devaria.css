@@ -21,6 +21,11 @@ h1.title {
     margin: 40px auto 20px;
 }
 
+.margin-horizontal-20px {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 .text-justify {
     text-align: justify;
 }
